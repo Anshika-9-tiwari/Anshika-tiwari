@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshika tiwari
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 👀 I’m a Front-end web developer
+- 🌱 I’m currently learning Git & Github , Node.js
 - 💞️ I’m looking to collaborate on Github.
 
 <!---
