@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshika tiwari
-- 👀 I’m a Front-end web developer
-- 🌱 I’m currently learning MangoDb , Node.js
+- 👀 I’m a Full Stack web developer
+- 🌱 I’m currently learning Express.js & Next.js
 - 💞️ I’m looking to collaborate on Github.
 
 <!---
