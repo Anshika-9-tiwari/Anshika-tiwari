@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anshika tiwari
 - 👀 I’m a Full Stack web developer
-- 🌱 I’m currently learning Express.js & Next.js
+- 🌱 I’m currently learning App Development
+- How to reach me tiwarianshikatiwari6@gmail.com
 - 💞️ I’m looking to collaborate on Github.
 
 <!---
